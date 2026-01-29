@@ -1,11 +1,7 @@
 
+## Hello, I'm Gustavo! A fullstack web dev with background in 3D and animation.
 
-
-
-
-<h3 align="center">A fullstack web dev with a background in 3d and animation.</h3>
-
-<div align="center"> 
+<div align="left"> 
   <a href="mailto:pinedo.m.gustavo@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=flat&logo=gmail&logoColor=red" />
   </a>
@@ -16,9 +12,39 @@
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=todoist&logoColor=white" target="_blank" /> 
   </a>
 </div>
-
-
 <br/>
+
+
+### Languages and Tools:
+
+
+<a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
+<a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
+<a href="https://www.w3schools.com/cpp/" target="_blank"> <img align="left" alt="C++" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c++.png"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="js" width="26px" src="https://raw.githubusercontent.com/gus-pi/gus-pi/refs/heads/main/js.png"/> </a>
+<a href="https://www.typescriptlang.org/" target="_blank"> <img align="left" alt="ts" width="26px" src="https://raw.githubusercontent.com/gus-pi/gus-pi/refs/heads/main/ts.png"/> </a>
+<a href="https://react.dev/" target="_blank"> <img align="left" alt="react" width="26px" src="https://raw.githubusercontent.com/gus-pi/gus-pi/refs/heads/main/react.png"/> </a>
+<a href="https://nextjs.org/" target="_blank"> <img align="left" alt="nextjs" width="26px" src="https://raw.githubusercontent.com/gus-pi/gus-pi/refs/heads/main/next.js.png"/> </a>
+<a href="https://tailwindcss.com/" target="_blank"> <img align="left" alt="tailwind" width="26px" src="https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg"/> </a>
+<a href="https://expressjs.com/" target="_blank"> <img align="left" alt="express" width="26px" src="https://raw.githubusercontent.com/gus-pi/gus-pi/refs/heads/main/three.js.png"/> </a>
+<a href="https://threejs.org/" target="_blank"> <img align="left" alt="threejs" width="26px" src="https://raw.githubusercontent.com/gus-pi/gus-pi/refs/heads/main/express.png"/> </a>
+<a href="https://nodejs.org/en" target="_blank"> <img align="left" alt="nodejs" width="26px" src="https://raw.githubusercontent.com/gus-pi/gus-pi/refs/heads/main/node.js.png"/> </a>
+<a href="https://www.postgresql.org/" target="_blank"> <img align="left" alt="postgres" width="26px" src="https://raw.githubusercontent.com/gus-pi/gus-pi/refs/heads/main/postgresql.png"/> </a>
+<a href="https://www.mongodb.com/" target="_blank"> <img align="left" alt="mongodb" width="26px" src="https://raw.githubusercontent.com/gus-pi/gus-pi/refs/heads/main/mongodb.png"/> </a>
+<img align="left" alt="GitHub" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
+<br />
+<br />
+### 2D and 3D packages:
+
+<img align="left" alt="Adobe Photoshop" width="26px" src="https://raw.githubusercontent.com/gus-pi/gus-pi/refs/heads/main/photoshop.png" />
+<img align="left" alt="Adobe Illustrator" width="26px" src="https://raw.githubusercontent.com/gus-pi/gus-pi/refs/heads/main/illustrator.png" />
+<img align="left" alt="Adobe After Effects" width="26px" src="https://raw.githubusercontent.com/gus-pi/gus-pi/refs/heads/main/after_effects.png" />
+<img align="left" alt="Blender" width="26px" src="https://raw.githubusercontent.com/gus-pi/gus-pi/refs/heads/main/blender.png" />
+<img align="left" alt="Autodesk 3dsMax" width="26px" src="https://raw.githubusercontent.com/gus-pi/gus-pi/refs/heads/main/3ds-max.png" />
+<img align="left" alt="Autodesk Maya" width="26px" src="https://raw.githubusercontent.com/gus-pi/gus-pi/refs/heads/main/maya.png" />
+
+<br />
+<br />
 
 
 
