@@ -36,12 +36,12 @@
 <br />
 ### 2D and 3D packages:
 
-<img align="left" alt="Adobe Photoshop" width="26px" src="https://raw.githubusercontent.com/gus-pi/gus-pi/refs/heads/main/photoshop.png" />
-<img align="left" alt="Adobe Illustrator" width="26px" src="https://raw.githubusercontent.com/gus-pi/gus-pi/refs/heads/main/illustrator.png" />
-<img align="left" alt="Adobe After Effects" width="26px" src="https://raw.githubusercontent.com/gus-pi/gus-pi/refs/heads/main/after_effects.png" />
-<img align="left" alt="Blender" width="26px" src="https://raw.githubusercontent.com/gus-pi/gus-pi/refs/heads/main/blender.png" />
-<img align="left" alt="Autodesk 3dsMax" width="26px" src="https://raw.githubusercontent.com/gus-pi/gus-pi/refs/heads/main/3ds-max.png" />
-<img align="left" alt="Autodesk Maya" width="26px" src="https://raw.githubusercontent.com/gus-pi/gus-pi/refs/heads/main/maya.png" />
+<a href="https://www.adobe.com/products/photoshop.html"  align="left" alt="Adobe Photoshop" width="26px" src="https://raw.githubusercontent.com/gus-pi/gus-pi/refs/heads/main/photoshop.png" />
+<a href="https://www.adobe.com/products/illustrator.html" align="left" alt="Adobe Illustrator" width="26px" src="https://raw.githubusercontent.com/gus-pi/gus-pi/refs/heads/main/illustrator.png" />
+<a href="https://www.adobe.com/products/aftereffects.html" align="left" alt="Adobe After Effects" width="26px" src="https://raw.githubusercontent.com/gus-pi/gus-pi/refs/heads/main/after_effects.png" />
+<a href="https://www.blender.org/" align="left" alt="Blender" width="26px" src="https://raw.githubusercontent.com/gus-pi/gus-pi/refs/heads/main/blender.png" />
+<a href="https://www.autodesk.com/products/3ds-max/overview" align="left" alt="Autodesk 3dsMax" width="26px" src="https://raw.githubusercontent.com/gus-pi/gus-pi/refs/heads/main/3ds-max.png" />
+<a href="https://www.autodesk.com/mx/products/maya/overview" align="left" alt="Autodesk Maya" width="26px" src="https://raw.githubusercontent.com/gus-pi/gus-pi/refs/heads/main/maya.png" />
 
 <br />
 <br />
