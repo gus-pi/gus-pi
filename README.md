@@ -1,5 +1,5 @@
 
-## Hello, I'm Gustavo! A fullstack web dev with background in 3D and animation.
+## Hello, I'm Gustavo! A creative web dev with background in 3D and animation and fullstack knowledge.
 
 <div align="left"> 
   <a href="mailto:pinedo.m.gustavo@gmail.com">
