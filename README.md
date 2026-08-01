@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/gustavo-pinedo-b320108a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://pinedog.space" target="_blank">
+  <a href="https://pinedog.lat" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=todoist&logoColor=white" target="_blank" /> 
   </a>
 </div>
